@@ -1,0 +1,15 @@
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/DocumentaionFormatConverter/DocumentaionFormatConverter/bin/Debug/net6.0/DocumentaionFormatConverter
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/DocumentaionFormatConverter/DocumentaionFormatConverter/bin/Debug/net6.0/DocumentaionFormatConverter.deps.json
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/DocumentaionFormatConverter/DocumentaionFormatConverter/bin/Debug/net6.0/DocumentaionFormatConverter.runtimeconfig.json
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/DocumentaionFormatConverter/DocumentaionFormatConverter/bin/Debug/net6.0/DocumentaionFormatConverter.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/DocumentaionFormatConverter/DocumentaionFormatConverter/bin/Debug/net6.0/DocumentaionFormatConverter.pdb
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/DocumentaionFormatConverter/DocumentaionFormatConverter/obj/Debug/net6.0/DocumentaionFormatConverter.csproj.AssemblyReference.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/DocumentaionFormatConverter/DocumentaionFormatConverter/obj/Debug/net6.0/DocumentaionFormatConverter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/DocumentaionFormatConverter/DocumentaionFormatConverter/obj/Debug/net6.0/DocumentaionFormatConverter.AssemblyInfoInputs.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/DocumentaionFormatConverter/DocumentaionFormatConverter/obj/Debug/net6.0/DocumentaionFormatConverter.AssemblyInfo.cs
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/DocumentaionFormatConverter/DocumentaionFormatConverter/obj/Debug/net6.0/DocumentaionFormatConverter.csproj.CoreCompileInputs.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/DocumentaionFormatConverter/DocumentaionFormatConverter/obj/Debug/net6.0/DocumentaionFormatConverter.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/DocumentaionFormatConverter/DocumentaionFormatConverter/obj/Debug/net6.0/refint/DocumentaionFormatConverter.dll
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/DocumentaionFormatConverter/DocumentaionFormatConverter/obj/Debug/net6.0/DocumentaionFormatConverter.pdb
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/DocumentaionFormatConverter/DocumentaionFormatConverter/obj/Debug/net6.0/DocumentaionFormatConverter.genruntimeconfig.cache
+/Users/mac/Desktop/My c# Projects/My-Genaral-C--PROJECTS/DocumentaionFormatConverter/DocumentaionFormatConverter/obj/Debug/net6.0/ref/DocumentaionFormatConverter.dll

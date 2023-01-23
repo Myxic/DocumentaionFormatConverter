@@ -1,0 +1,50 @@
+| Code Documentation |
+
+
+Class: PersonalDetails
+	Description: 
+
+A little detail about me
+Constructor: .ctor
+	Description: This tells you about Ben
+	Input: 
+
+IPersonal
+Method: DisplayAge
+	Description: DisplayAge
+	Input: 
+	Output: 
+
+
+Method: DisplayGender
+	Description: DisplayGender
+	Input: 
+	Output: 
+
+
+Property: GoodGuy
+	Description: This checks if Ben is a good guy
+	Output: 
+
+
+Class: Bezao
+	Description: 
+
+This is a Bezao database of Ben
+Property: Age
+	Description: Shows how old Ben is 
+	Output: 
+
+int
+Property: Gender
+	Description: Shows Ben's Gender
+	Output: 
+
+string
+Enum: Responsible
+	Description: This indicates how responsible Ben is
+Low
+Medium
+High
+  
+| End of Documentation |
