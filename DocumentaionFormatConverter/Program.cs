@@ -22,6 +22,7 @@ class Program
                 FileTXT.WriteToTXT();
                 break;
             case "2":
+                FileTXT.WriteToJSON();
                 break;
             default:
                 Console.Clear();

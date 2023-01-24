@@ -1,11 +1,6 @@
 ﻿using System;
-using System.Xml.Linq;
-using System.IO;
-using Documentation;
 using static Documentation.DocumentationModel;
 using static DocumentationAttribute.Program;
-using System.Text.Json.Serialization;
-using System.Net.Http.Json;
 using System.Text.Json;
 
 namespace DocumentationAttribute
@@ -43,7 +38,8 @@ namespace DocumentationAttribute
        
         public static void WriteToJSON() 
 	    {
-            var json = JsonSerializer.Serialize(GetDocString);
+            string json = JsonSerializer.Serialize(GetDocString.ToString());
+           
             File.WriteAllText("Documentation.json", json);
             Console.WriteLine("Enter 0 to Exit to Main Menu or Any key to Read to the Console");
             string input2 = Console.ReadLine();
