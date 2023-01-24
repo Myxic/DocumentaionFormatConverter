@@ -51,7 +51,7 @@ namespace DocumentationAttribute
         }
         public static void WriteToJSON()
         {
-            SaveAsJsonFormat(GetDocString.GetHashCode(), "Documentation.json");
+            SaveAsJsonFormat(GetDocString.ToString().Split("\n"), "Documentation.json");
             //string json = JsonSerializer.Serialize(GetDocString.ToString());
 
             //File.WriteAllText("Documentation.json", json);
